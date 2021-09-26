@@ -1,0 +1,14 @@
+C:\dev\wf-vs2019\Recapitulation\Recapitulation\bin\Debug\netcoreapp3.1\Recapitulation.exe
+C:\dev\wf-vs2019\Recapitulation\Recapitulation\bin\Debug\netcoreapp3.1\Recapitulation.deps.json
+C:\dev\wf-vs2019\Recapitulation\Recapitulation\bin\Debug\netcoreapp3.1\Recapitulation.runtimeconfig.json
+C:\dev\wf-vs2019\Recapitulation\Recapitulation\bin\Debug\netcoreapp3.1\Recapitulation.runtimeconfig.dev.json
+C:\dev\wf-vs2019\Recapitulation\Recapitulation\bin\Debug\netcoreapp3.1\Recapitulation.dll
+C:\dev\wf-vs2019\Recapitulation\Recapitulation\bin\Debug\netcoreapp3.1\Recapitulation.pdb
+C:\dev\wf-vs2019\Recapitulation\Recapitulation\obj\Debug\netcoreapp3.1\Recapitulation.csproj.AssemblyReference.cache
+C:\dev\wf-vs2019\Recapitulation\Recapitulation\obj\Debug\netcoreapp3.1\Recapitulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\wf-vs2019\Recapitulation\Recapitulation\obj\Debug\netcoreapp3.1\Recapitulation.AssemblyInfoInputs.cache
+C:\dev\wf-vs2019\Recapitulation\Recapitulation\obj\Debug\netcoreapp3.1\Recapitulation.AssemblyInfo.cs
+C:\dev\wf-vs2019\Recapitulation\Recapitulation\obj\Debug\netcoreapp3.1\Recapitulation.csproj.CoreCompileInputs.cache
+C:\dev\wf-vs2019\Recapitulation\Recapitulation\obj\Debug\netcoreapp3.1\Recapitulation.dll
+C:\dev\wf-vs2019\Recapitulation\Recapitulation\obj\Debug\netcoreapp3.1\Recapitulation.pdb
+C:\dev\wf-vs2019\Recapitulation\Recapitulation\obj\Debug\netcoreapp3.1\Recapitulation.genruntimeconfig.cache
